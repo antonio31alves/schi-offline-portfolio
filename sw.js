@@ -3,7 +3,7 @@ const urlsToCache = [
   '/schi-offline-portfolio/',
   '/schi-offline-portfolio/index.html',
   '/schi-offline-portfolio/styles.css',
-  '/schi-offline-portfolio/script.js',
+  '/schi-offline-portfolio/scripts.js',
   '/schi-offline-portfolio/manifest.json',
   '/schi-offline-portfolio/images/logo.png',
   '/schi-offline-portfolio/images/icon-192.png',
