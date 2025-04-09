@@ -14,7 +14,7 @@ const urlsToCache = [
   '/schi-offline-portfolio/images/brochure1.webp',
   '/schi-offline-portfolio/images/brochure2.webp',
   '/schi-offline-portfolio/images/brochure3.webp',
-  '/schi-offline-portfolio/brochures/brochure1.webp',
+  '/schi-offline-portfolio/brochures/brochure1.pdf',
   '/schi-offline-portfolio/brochures/brochure2.pdf',
   '/schi-offline-portfolio/brochures/brochure3.pdf'
 ];
