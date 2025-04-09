@@ -1,4 +1,4 @@
-const CACHE_NAME = 'minimal-portfolio-cache-v5';
+const CACHE_NAME = 'schi-portfolio-cache-v1';
 const urlsToCache = [
   '/schi-offline-portfolio/',
   '/schi-offline-portfolio/index.html',
